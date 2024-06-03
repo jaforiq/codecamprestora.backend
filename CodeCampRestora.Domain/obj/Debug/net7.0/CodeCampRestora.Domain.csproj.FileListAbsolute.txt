@@ -1,0 +1,15 @@
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.deps.json
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.runtimeconfig.json
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.dll
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.pdb
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.csproj.AssemblyReference.cache
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.AssemblyInfoInputs.cache
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.AssemblyInfo.cs
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.csproj.CoreCompileInputs.cache
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.sourcelink.json
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.dll
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\refint\CodeCampRestora.Domain.dll
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.pdb
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.genruntimeconfig.cache
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\ref\CodeCampRestora.Domain.dll

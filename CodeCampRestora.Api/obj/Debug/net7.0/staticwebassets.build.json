@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "O8bOZ/5XpFejJcotHfXKE0D/m8DSSjp28jH/J8BI0Kc=",
+  "Source": "CodeCampRestora.Api",
+  "BasePath": "_content/CodeCampRestora.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CodeCampRestora.Api\\wwwroot",
+      "Source": "CodeCampRestora.Api",
+      "ContentRoot": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\wwwroot\\",
+      "BasePath": "_content/CodeCampRestora.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\wwwroot\\images\\.placeholder",
+      "SourceId": "CodeCampRestora.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\wwwroot\\",
+      "BasePath": "_content/CodeCampRestora.Api",
+      "RelativePath": "images/.placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\.placeholder"
+    }
+  ]
+}

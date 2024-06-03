@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Astha Task\\codecamprestora.backend\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8725D2-69FC-406C-9335-A7604A91953D}|CodeCampRestora.Application\\CodeCampRestora.Application.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.application\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8725D2-69FC-406C-9335-A7604A91953D}|CodeCampRestora.Application\\CodeCampRestora.Application.csproj|solutionrelative:codecamprestora.application\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E120C9-7DF7-4B50-8BE7-7BF29D8EC7D7}|CodeCampRestora.Infrastructure\\CodeCampRestora.Infrastructure.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.infrastructure\\data\\repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E120C9-7DF7-4B50-8BE7-7BF29D8EC7D7}|CodeCampRestora.Infrastructure\\CodeCampRestora.Infrastructure.csproj|solutionrelative:codecamprestora.infrastructure\\data\\repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46837360-A1E4-4E64-B185-0F76936D00FE}|CodeCampRestora.Api\\CodeCampRestora.Api.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.api\\controllers\\v1\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46837360-A1E4-4E64-B185-0F76936D00FE}|CodeCampRestora.Api\\CodeCampRestora.Api.csproj|solutionrelative:codecamprestora.api\\controllers\\v1\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674769C-C60D-4029-BF16-794A2B6260B2}|CodeCampRestora.Domain\\CodeCampRestora.Domain.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674769C-C60D-4029-BF16-794A2B6260B2}|CodeCampRestora.Domain\\CodeCampRestora.Domain.csproj|solutionrelative:codecamprestora.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674769C-C60D-4029-BF16-794A2B6260B2}|CodeCampRestora.Domain\\CodeCampRestora.Domain.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674769C-C60D-4029-BF16-794A2B6260B2}|CodeCampRestora.Domain\\CodeCampRestora.Domain.csproj|solutionrelative:codecamprestora.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E120C9-7DF7-4B50-8BE7-7BF29D8EC7D7}|CodeCampRestora.Infrastructure\\CodeCampRestora.Infrastructure.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.infrastructure\\data\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E120C9-7DF7-4B50-8BE7-7BF29D8EC7D7}|CodeCampRestora.Infrastructure\\CodeCampRestora.Infrastructure.csproj|solutionrelative:codecamprestora.infrastructure\\data\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E674769C-C60D-4029-BF16-794A2B6260B2}|CodeCampRestora.Domain\\CodeCampRestora.Domain.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.domain\\entities\\branches\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E674769C-C60D-4029-BF16-794A2B6260B2}|CodeCampRestora.Domain\\CodeCampRestora.Domain.csproj|solutionrelative:codecamprestora.domain\\entities\\branches\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46837360-A1E4-4E64-B185-0F76936D00FE}|CodeCampRestora.Api\\CodeCampRestora.Api.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46837360-A1E4-4E64-B185-0F76936D00FE}|CodeCampRestora.Api\\CodeCampRestora.Api.csproj|solutionrelative:codecamprestora.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8725D2-69FC-406C-9335-A7604A91953D}|CodeCampRestora.Application\\CodeCampRestora.Application.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.application\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8725D2-69FC-406C-9335-A7604A91953D}|CodeCampRestora.Application\\CodeCampRestora.Application.csproj|solutionrelative:codecamprestora.application\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E120C9-7DF7-4B50-8BE7-7BF29D8EC7D7}|CodeCampRestora.Infrastructure\\CodeCampRestora.Infrastructure.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.infrastructure\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E120C9-7DF7-4B50-8BE7-7BF29D8EC7D7}|CodeCampRestora.Infrastructure\\CodeCampRestora.Infrastructure.csproj|solutionrelative:codecamprestora.infrastructure\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46837360-A1E4-4E64-B185-0F76936D00FE}|CodeCampRestora.Api\\CodeCampRestora.Api.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.api\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46837360-A1E4-4E64-B185-0F76936D00FE}|CodeCampRestora.Api\\CodeCampRestora.Api.csproj|solutionrelative:codecamprestora.api\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8725D2-69FC-406C-9335-A7604A91953D}|CodeCampRestora.Application\\CodeCampRestora.Application.csproj|e:\\astha task\\codecamprestora.backend\\src\\codecamprestora.application\\features\\reviewcomments\\createreviewcommentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8725D2-69FC-406C-9335-A7604A91953D}|CodeCampRestora.Application\\CodeCampRestora.Application.csproj|solutionrelative:codecamprestora.application\\features\\reviewcomments\\createreviewcommentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 392,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Application\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Application\\Services\\ImageService.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Application\\Services\\ImageService.cs",
+              "RelativeToolTip": "CodeCampRestora.Application\\Services\\ImageService.cs",
+              "ViewState": "AQIAAC4AAAAAMjMzMzMDwC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:28:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchRepository.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Infrastructure\\Data\\Repositories\\BranchRepository.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Infrastructure\\Data\\Repositories\\BranchRepository.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Infrastructure\\Data\\Repositories\\BranchRepository.cs",
+              "RelativeToolTip": "CodeCampRestora.Infrastructure\\Data\\Repositories\\BranchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:21:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Domain\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Domain\\Entities\\Restaurant.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Domain\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "CodeCampRestora.Domain\\Entities\\Restaurant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgPQoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:07:26.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Domain\\Entities\\Review.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "CodeCampRestora.Domain\\Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:28:38.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Infrastructure\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Infrastructure\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Infrastructure\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodeCampRestora.Infrastructure\\Data\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADQAAAAANDMzMzMDwD0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:28:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicesConfiguration.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Application\\ServicesConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Application\\ServicesConfiguration.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Application\\ServicesConfiguration.cs",
+              "RelativeToolTip": "CodeCampRestora.Application\\ServicesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:29:28.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\Controllers\\V1\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Api\\Controllers\\V1\\RestaurantsController.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\Controllers\\V1\\RestaurantsController.cs",
+              "RelativeToolTip": "CodeCampRestora.Api\\Controllers\\V1\\RestaurantsController.cs",
+              "ViewState": "AQIAABYAAAAAMDMzMzPjvxsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:20:50.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicesConfiguration.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Infrastructure\\ServicesConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Infrastructure\\ServicesConfiguration.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Infrastructure\\ServicesConfiguration.cs",
+              "RelativeToolTip": "CodeCampRestora.Infrastructure\\ServicesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:11:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Api\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "CodeCampRestora.Api\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAAA4AAAAANDMzMzPzvzAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:01:17.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Domain\\Entities\\Branches\\Branch.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Domain\\Entities\\Branches\\Branch.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Domain\\Entities\\Branches\\Branch.cs",
+              "RelativeToolTip": "CodeCampRestora.Domain\\Entities\\Branches\\Branch.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T06:11:03.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Api\\Program.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Api\\Program.cs",
+              "RelativeToolTip": "CodeCampRestora.Api\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:20:39.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateReviewCommentCommandHandler.cs",
+              "DocumentMoniker": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Application\\Features\\ReviewComments\\CreateReviewCommentCommandHandler.cs",
+              "RelativeDocumentMoniker": "CodeCampRestora.Application\\Features\\ReviewComments\\CreateReviewCommentCommandHandler.cs",
+              "ToolTip": "E:\\Astha Task\\codecamprestora.backend\\src\\CodeCampRestora.Application\\Features\\ReviewComments\\CreateReviewCommentCommandHandler.cs",
+              "RelativeToolTip": "CodeCampRestora.Application\\Features\\ReviewComments\\CreateReviewCommentCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T16:03:13.02Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

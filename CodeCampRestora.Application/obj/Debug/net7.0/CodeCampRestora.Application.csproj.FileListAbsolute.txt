@@ -1,0 +1,16 @@
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Application.deps.json
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Application.dll
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Application.pdb
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Domain.dll
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Domain.pdb
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.csproj.AssemblyReference.cache
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.AssemblyInfoInputs.cache
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.AssemblyInfo.cs
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.csproj.CoreCompileInputs.cache
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.sourcelink.json
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.csproj.CopyComplete
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.dll
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\refint\CodeCampRestora.Application.dll
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.pdb
+E:\Astha Task\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\ref\CodeCampRestora.Application.dll
